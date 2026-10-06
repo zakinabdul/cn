@@ -1,0 +1,6 @@
+{
+  "name": "CN Lab Study Portal – TCP Matrix & UDP Time Server",
+  "description": "Quick revision study portal for Computer Networks Lab experiments: Program 5 TCP Matrix Type Identification and Program 8 Concurrent UDP Time Server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
